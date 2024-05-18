@@ -1,8 +1,11 @@
-<br>
+
 # SASS 목차
+
 <br>
 <br>
+
 ### GETTING STARTED
+
 <br>  
 설치 참고사이트   
 
@@ -11,7 +14,7 @@
     - Window Git  -  [https://git-scm.com/](https://git-scm.com/)**
 <br>
 <br>
-<br>
+
 ## BASIC CONTENT
 
 1. SASS 소개
