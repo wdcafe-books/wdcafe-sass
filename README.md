@@ -1,40 +1,18 @@
-# **
 
 # SASS 목차
 
-**
 
-##   
+### GETTING STARTED
 
-## GETTING STARTED
-
-  
-
-1. 소개
-2. 설치
 3. 참고사이트   
 
-**
-
     - Node JS   -  [https://nodejs.org/en/](https://nodejs.org/ko/)    (  LTS 안정화 버전으로 v18 이상 버전 설치 )
-
-
-**
-
-    - **VScode   -  [https://code.visualstudio.com/](https://code.visualstudio.com/)** 
-    - **Window Git  -  [https://git-scm.com/](https://git-scm.com/)**
-
+    - VScode   -  [https://code.visualstudio.com/](https://code.visualstudio.com/)** 
+    - Window Git  -  [https://git-scm.com/](https://git-scm.com/)**
+  
   
 
-  
-
-* * *
-
-  
-
-  
-
-# BASIC CONTENT
+## BASIC CONTENT
 
 1. SASS 소개
 2. SASS 설치
