@@ -4,7 +4,7 @@
 <br>
 <br>
 
-### GETTING STARTED
+## GETTING STARTED
 
 <br>  
 설치 참고사이트   
